@@ -1,0 +1,20 @@
+{
+    "name": "wpjscc/reactphp-mysql-pool-server",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wpjscc\\MySQLServer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wpjscc",
+            "email": "wpjscc@gmail.com"
+        }
+    ],
+    "require": {
+        "react/mysql": "^0.6@dev",
+        "wpjscc/reactphp-mysql-pool": "^1.0",
+        "ringcentral/psr7": "^1.3"
+    }
+}
