@@ -22,6 +22,12 @@
 ```
 
 
+## install
+
+```
+composer require wpjscc/reactphp-mysql-pool-server -vvv
+```
+
 ## server pool
 
 ```
