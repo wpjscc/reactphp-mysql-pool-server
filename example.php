@@ -8,7 +8,7 @@ use React\MySQL\QueryResult;
 use React\EventLoop\Loop;
 
 $pool = new Pool(
-    '127.0.0.1:3308?idle=3',
+    '127.0.0.1:3308',
     [
         'min_connections' => 2, // 10 connection
         'max_connections' => 10, // 10 connection
