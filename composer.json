@@ -13,7 +13,6 @@
         }
     ],
     "require": {
-        "react/mysql": "^0.6@dev",
         "wpjscc/reactphp-mysql-pool": "^1.0",
         "ringcentral/psr7": "^1.3"
     }
